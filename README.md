@@ -1,2 +1,2 @@
-### ![My GIF]({{ site.baseurl }}{{ page.gif_path }})
+### ![My GIF]({{ page.gif_path }})
 
